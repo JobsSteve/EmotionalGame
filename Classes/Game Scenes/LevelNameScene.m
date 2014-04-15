@@ -10,8 +10,9 @@
 
 #import "LevelRulesScene.h"
 #import "Sounds.h"
-
+#import "Extensions.h"
 #import "CCLabelTTF+Extension.h"
+
 
 @interface LevelNameScene ()
 

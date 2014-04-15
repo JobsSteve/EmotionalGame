@@ -11,6 +11,8 @@
 #import "CCScene+Extension.h"
 #import "CCSprite+Extension.h"
 
+#import "Extensions.h"
+
 @interface ProgressBarScene()
 
 @property (nonatomic, strong) CCSprite *kvadratSet;

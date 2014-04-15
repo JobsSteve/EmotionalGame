@@ -8,6 +8,7 @@
 
 #import "FailScene.h"
 #import "CCScene+Extension.h"
+#import "Extensions.h"
 
 #import "ChooseLevelScene.h"
 

@@ -24,6 +24,8 @@
 #import "CCButton+Extension.h"
 #import "CCSprite+Extension.h"
 
+#import "Extensions.h"
+
 @implementation ChooseLevelScene
 {
     CCSprite *_background;
